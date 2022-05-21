@@ -1,1 +1,1 @@
-teste
+utilidades para auxiliar no curso Git/GitHub
